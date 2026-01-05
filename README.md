@@ -1,6 +1,6 @@
 Induru Nithya sri<br>
 B.Tech Student | Software Engineering & Distributed Ledger Analytics<br>
-<img src="https://giffiles.alphacoders.com/955/95507.gif">
+<img src="https://i.pinimg.com/originals/2b/5a/19/2b5a19639708bae257096a2b777c88c5.gif">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nithya-sri-induru/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Induru Nithyasri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:indurunithyasri2006@gmail.com) 
 
